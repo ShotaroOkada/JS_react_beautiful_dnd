@@ -38,7 +38,6 @@ class App extends React.Component {
                 [newColumn.id]: newColumn,
             },
         };
-
         this.setState(newState);
     };
 
